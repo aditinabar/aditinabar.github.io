@@ -1,0 +1,30 @@
+/* header.masthead {
+    opacity: 0.7;
+} */
+/* 
+header.masthead p {
+    color: black
+} */
+
+header.masthead h1 {
+    font-size: 3rem;
+  }
+
+@media (min-width: 992px) {
+    header.masthead {
+      height: 100vh;
+      min-height: 650px;
+      padding-top: 0;
+      padding-bottom: 0;
+    }
+    header.masthead h1 {
+      font-size: 4rem;
+    }
+  }
+  
+  @media (min-width: 1200px) {
+    header.masthead h1 {
+      font-size: 5rem;
+    }
+  }
+
