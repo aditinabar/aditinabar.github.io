@@ -7,7 +7,7 @@ entries_layout: grid
 header:
   image: /assets/images/cacti_cropped.jpg
 gallery:
-  - url: https://github.com/aditinabar/house-prices-modeling/blob/develop/Predicting%20House%20Prices.ipynb
+  - url: https://github.com/aditinabar/house-prices-modeling/blob/master/Predicting%20House%20Prices.ipynb
     image_path: /assets/images/StairsWithText.png
     alt: "House Prices Notebook"
     title: "Basic regression modeling: Predicting House Prices"
