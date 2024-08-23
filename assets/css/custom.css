@@ -1,0 +1,39 @@
+/* Change font size for headers */
+h1, h2, h3, h4, h5, h6 {
+    font-size: 1.6em; /* Adjust as needed */
+  }
+  
+/* Change font size for paragraphs */
+  p {
+    font-size: 1.0em; /* Adjust as needed */
+  }
+  
+  /* Change font size for unordered list items */
+  ul li {
+    font-size: .8rem; /* Adjust size as needed */
+  }
+  
+  /* Change font size for ordered list items */
+  ol li {
+    font-size: .8rem; /* Adjust size as needed */
+  }
+
+  body {
+    background-color: #e9eaff; /* Light grey background */
+  }
+  
+  /* Change the background color of the header */
+  .header, .masthead {
+    background-color: #282828; /* Dark grey header */
+  }
+
+/* Change the background color of the site navigation bar */
+.site-nav, .greedy-nav,
+.navbar {
+  background-color: #282828; /* Example dark grey color */
+  color: #e9eaff;
+}
+
+a.site-title, .greedy-nav .visible-links a {
+  color: #e9eaff;
+}

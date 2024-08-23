@@ -1,9 +1,9 @@
 # main links
 main:
   - title: "About"
-    url: /
-  - title: "Projects"
-    url: /projects/
+    url: /about
+  - title: "Portfolio"
+    url: /portfolio
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"

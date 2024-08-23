@@ -1,6 +1,6 @@
 ---
 title: "Portfolio"
-permalink: /projects/
+permalink: /portfolio/
 layout: single
 author_profile: true
 entries_layout: grid
